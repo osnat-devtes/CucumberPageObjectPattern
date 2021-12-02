@@ -14,7 +14,7 @@ public class AddNewAddressPage extends BasePage{
     @FindBy(xpath = "//*[@id=\"header\"]/div[3]/div/div/div[7]/ul/li/ul/li[1]/a")
     private WebElement accountsButton;
 
-    @FindBy(xpath = "//*[@id=\"center_column\"]/div/div/ul/li[3]/a")
+    @FindBy(xpath = "//*[@id=\"center_column\"]/div/div/ul/li[4]/a")
     private WebElement myAddressesButton;
 
     @FindBy(xpath = "//*[@id=\"center_column\"]/div/a/span")
